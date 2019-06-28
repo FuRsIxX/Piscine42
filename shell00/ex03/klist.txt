@@ -1,0 +1,5 @@
+Credentials cache: API:EA4BB548-6C32-43B6-B3D8-D26C65EBE8ED
+        Principal: aboutin@42.FR
+
+		  Issued                Expires               Principal
+		  Jun  4 13:13:00 2019  Jun 11 13:12:54 2019  krbtgt/42.FR@42.FR
